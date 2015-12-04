@@ -8,6 +8,7 @@ from chef.data_bag import DataBag, DataBagItem
 from chef.exceptions import ChefError
 from chef.node import Node
 from chef.role import Role
+from chef.cookbook import Cookbook
 from chef.environment import Environment
 from chef.search import Search
 from chef.acl import Acl
